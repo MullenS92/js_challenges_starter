@@ -1,6 +1,6 @@
 (function(){
  
-    let amount= 17
+    let amount= 47
    let bills=[]
 
  //   let numberOfTwenties= Math.floor(amount/20)
